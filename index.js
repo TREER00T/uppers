@@ -6,10 +6,10 @@ const ERRORS = require('./lib/constants').ERRORS;
 const EVENTS = require('./lib/constants').EVENTS;
 
 module.exports = {
-    Server,
-    DataStore,
-    FileStore,
-    Metadata,
-    ERRORS,
-    EVENTS,
+  Server,
+  DataStore,
+  FileStore,
+  Metadata,
+  ERRORS,
+  EVENTS,
 };
