@@ -1,10 +1,10 @@
 {
   "name": "uppers",
   "description": "Edited version of Node.js tus server",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/treegex/uppers.git"
+    "url": "git+https://github.com/treer00t/uppers.git"
   },
   "keywords": [
     "tus",
@@ -19,11 +19,11 @@
   "author": "Ali Azmoodeh <treeroot.ir@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/treegex/uppers/issues"
+    "url": "https://github.com/treer00t/uppers/issues"
   },
-  "homepage": "https://github.com/treegex/uppers#readme",
+  "homepage": "https://github.com/treer00t/uppers#readme",
   "main": "index.js",
   "dependencies": {
-    "configstore": "^5.0.1"
+    "configstore": "^7.0.0"
   }
 }
